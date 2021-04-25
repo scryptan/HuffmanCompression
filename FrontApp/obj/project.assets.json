@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0-windows7.0": {
+      "HuffmanCompression/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/HuffmanCompression.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HuffmanCompression.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HuffmanCompression/1.0.0": {
+      "type": "project",
+      "path": "../HuffmanCompression/HuffmanCompression.csproj",
+      "msbuildProject": "../HuffmanCompression/HuffmanCompression.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0-windows7.0": [
+      "HuffmanCompression >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\scryptan\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\scryptan\\RiderProjects\\HuffmanCompression\\FrontApp\\FrontApp.csproj",
+      "projectName": "FrontApp",
+      "projectPath": "C:\\Users\\scryptan\\RiderProjects\\HuffmanCompression\\FrontApp\\FrontApp.csproj",
+      "packagesPath": "C:\\Users\\scryptan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\scryptan\\RiderProjects\\HuffmanCompression\\FrontApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\scryptan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0-windows"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "projectReferences": {
+            "C:\\Users\\scryptan\\RiderProjects\\HuffmanCompression\\HuffmanCompression\\HuffmanCompression.csproj": {
+              "projectPath": "C:\\Users\\scryptan\\RiderProjects\\HuffmanCompression\\HuffmanCompression\\HuffmanCompression.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0-windows7.0": {
+        "targetAlias": "net5.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

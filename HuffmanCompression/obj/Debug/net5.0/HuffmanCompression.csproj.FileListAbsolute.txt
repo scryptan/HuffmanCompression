@@ -1,0 +1,17 @@
+C:\Users\scryptan\RiderProjects\HuffmanCompression\HuffmanCompression\bin\Debug\net5.0\HuffmanCompression.exe
+C:\Users\scryptan\RiderProjects\HuffmanCompression\HuffmanCompression\bin\Debug\net5.0\HuffmanCompression.deps.json
+C:\Users\scryptan\RiderProjects\HuffmanCompression\HuffmanCompression\bin\Debug\net5.0\HuffmanCompression.runtimeconfig.json
+C:\Users\scryptan\RiderProjects\HuffmanCompression\HuffmanCompression\bin\Debug\net5.0\HuffmanCompression.runtimeconfig.dev.json
+C:\Users\scryptan\RiderProjects\HuffmanCompression\HuffmanCompression\bin\Debug\net5.0\HuffmanCompression.dll
+C:\Users\scryptan\RiderProjects\HuffmanCompression\HuffmanCompression\bin\Debug\net5.0\ref\HuffmanCompression.dll
+C:\Users\scryptan\RiderProjects\HuffmanCompression\HuffmanCompression\bin\Debug\net5.0\HuffmanCompression.pdb
+C:\Users\scryptan\RiderProjects\HuffmanCompression\HuffmanCompression\obj\Debug\net5.0\HuffmanCompression.csprojAssemblyReference.cache
+C:\Users\scryptan\RiderProjects\HuffmanCompression\HuffmanCompression\obj\Debug\net5.0\HuffmanCompression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scryptan\RiderProjects\HuffmanCompression\HuffmanCompression\obj\Debug\net5.0\HuffmanCompression.AssemblyInfoInputs.cache
+C:\Users\scryptan\RiderProjects\HuffmanCompression\HuffmanCompression\obj\Debug\net5.0\HuffmanCompression.AssemblyInfo.cs
+C:\Users\scryptan\RiderProjects\HuffmanCompression\HuffmanCompression\obj\Debug\net5.0\HuffmanCompression.csproj.CoreCompileInputs.cache
+C:\Users\scryptan\RiderProjects\HuffmanCompression\HuffmanCompression\obj\Debug\net5.0\HuffmanCompression.dll
+C:\Users\scryptan\RiderProjects\HuffmanCompression\HuffmanCompression\obj\Debug\net5.0\ref\HuffmanCompression.dll
+C:\Users\scryptan\RiderProjects\HuffmanCompression\HuffmanCompression\obj\Debug\net5.0\HuffmanCompression.pdb
+C:\Users\scryptan\RiderProjects\HuffmanCompression\HuffmanCompression\obj\Debug\net5.0\HuffmanCompression.genruntimeconfig.cache
+C:\Users\scryptan\RiderProjects\HuffmanCompression\HuffmanCompression\bin\Debug\net5.0\Input.txt

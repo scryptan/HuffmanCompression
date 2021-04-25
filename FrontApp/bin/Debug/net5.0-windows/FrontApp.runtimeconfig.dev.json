@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\scryptan\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\scryptan\\.nuget\\packages"
+    ]
+  }
+}
